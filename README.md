@@ -5,7 +5,7 @@ In this blog, we're going to walk through the process how to build a cloud detec
 <br />
 
 
-<h2>Utilities Used</h2>
+<h2>In this project, we will</h2>
 <p>Understand Windows Security Event logs</p>
 <p>Configure Windows Security Policies</p>
 <p>Use MITRE ATT&CK to map adversary tactics, techniques, detection and mitigation procedures</p>
