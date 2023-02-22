@@ -6,14 +6,14 @@ In this blog, we're going to walk through the process how to build a cloud detec
 
 
 <h2>Utilities Used</h2>
-Understand Windows Security Event logs
-Configure Windows Security Policies
-Use MITRE ATT&CK to map adversary tactics, techniques, detection and mitigation procedures
-Configure and Deploy Azure Resources: Virtual Machines, Azure Sentinel, and Log Analytics Workspace.
-Use Data Connectors to bring data into Sentinel for Analysis
-Use KQL to query Logs
-Implement Network and Virtual Machine Security Best Practices
-Write Custom Analytic Rules to detect Microsoft Security Events
+<p>Understand Windows Security Event logs</p>
+<p>Configure Windows Security Policies</p>
+<p>Use MITRE ATT&CK to map adversary tactics, techniques, detection and mitigation procedures</p>
+<p>Configure and Deploy Azure Resources: Virtual Machines, Azure Sentinel, and Log Analytics Workspace</p>
+<p>Use Data Connectors to bring data into Sentinel for Analysis</p>
+<p>Use KQL to query Logs</p>
+<p>Implement Network and Virtual Machine Security Best Practices</p>
+<p>Write Custom Analytic Rules to detect Microsoft Security Events</p>
 
 <!--
  ```diff
